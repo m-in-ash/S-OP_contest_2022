@@ -1,2 +1,3 @@
-# S-OP_contest_2022
-2022 S&amp;OP Competition hosted by the Korea SCM Association
+# S&OP_contest_2022
+2022 S&OP Competition hosted by the Korea SCM Association
+
